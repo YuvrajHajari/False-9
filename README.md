@@ -7,7 +7,7 @@ A daily football player guessing game built with React. Guess the mystery Big 5 
 
 ## How It Works
 
-Each day a random star player from the Big 5 European leagues is selected as the mystery player. Type any player's name into the search bar and select them. Six tiles will flip and reveal how your guess compares to the answer:
+A random star player from the Big 5 European leagues is selected by the system as the mystery player. Type any player's name into the search bar and select them. Six tiles will flip and reveal how your guess compares to the answer:
 
 | Tile | Colour | Meaning |
 |------|--------|---------|
