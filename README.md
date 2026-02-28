@@ -162,5 +162,5 @@ const NAT_TO_FLAG = {
 
 Made with ♥ by **Yuvi**
 
-- GitHub: [github.com/YuvrajHajari](https://github.com/YuvrajHajari/)
 - LinkedIn: [yuvraj-singh-hajari](https://linkedin.com/in/yuvraj-singh-hajari-b40373277/)
+- yuvrajhajari@gmail.com
