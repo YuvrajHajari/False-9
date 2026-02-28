@@ -2,7 +2,6 @@
 
 A daily football player guessing game built with React. Guess the mystery Big 5 league player from attribute clues — nationality, club, position, league, and age. You get 9 attempts.
 
-Live at: **[your-url-here]**
 
 ---
 
