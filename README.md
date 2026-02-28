@@ -1,70 +1,167 @@
-# Getting Started with Create React App
+# ⚽ False-9
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A daily football player guessing game built with React. Guess the mystery Big 5 league player from attribute clues — nationality, club, position, league, and age. You get 9 attempts.
 
-## Available Scripts
+Live at: **[your-url-here]**
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## How It Works
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Each day a random star player from the Big 5 European leagues is selected as the mystery player. Type any player's name into the search bar and select them. Six tiles will flip and reveal how your guess compares to the answer:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+| Tile | Colour | Meaning |
+|------|--------|---------|
+| 🟢 Green | Correct | Exact match |
+| 🔴 Red | Wrong | No match |
+| ▲ Higher | Red + arrow | Correct player is older |
+| ▼ Lower | Red + arrow | Correct player is younger |
 
-### `npm test`
+You have **9 guesses**. If you run out, the answer is revealed.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React** — UI and game state
+- **Firebase Firestore** — stores club and league badge image URLs
+- **flagcdn.com** — flag images by ISO country code
+- **CSS** — custom animations, glassmorphism, pitch grid background
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Project Structure
 
-### `npm run eject`
+```
+src/
+├── App.jsx          # Main game component + Tile component
+├── App.css          # All styles
+├── firebase.js      # Firebase config and db export
+└── data/
+    └── players.json # Player dataset
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### `players.json` shape
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Each player object should follow this structure:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```json
+{
+  "name": "Harry Kane",
+  "search": "harry kane",
+  "natCode": "ENG",
+  "club": "Bayern Munich",
+  "league": "Bundesliga",
+  "pos": "ST",
+  "age": 31,
+  "isStar": true
+}
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+| Field | Type | Description |
+|-------|------|-------------|
+| `name` | string | Full display name |
+| `search` | string | Lowercase version used for search filtering |
+| `natCode` | string | 3-letter FIFA nationality code (e.g. `ENG`, `BRA`) |
+| `club` | string | Current club — must match Firestore key exactly |
+| `league` | string | League name — must match Firestore key exactly |
+| `pos` | string | Position abbreviation (e.g. `ST`, `CB`, `GK`) |
+| `age` | number | Player's current age |
+| `isStar` | boolean | Only `true` players are selected as the mystery player |
 
-## Learn More
+### Firebase Firestore structure
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Two documents under the `assets` collection:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+assets/
+├── clubs    → { "Bayern Munich": "<image_url>", "Arsenal": "<image_url>", ... }
+└── leagues  → { "Bundesliga": "<image_url>", "Premier League": "<image_url>", ... }
+```
 
-### Code Splitting
+Keys must match the `club` and `league` fields in `players.json` exactly (whitespace is trimmed automatically).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Prerequisites
 
-### Making a Progressive Web App
+- Node.js 18+
+- A Firebase project with Firestore enabled
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Installation
 
-### Advanced Configuration
+```bash
+git clone https://github.com/YuvrajHajari/false-9.git
+cd false-9
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Firebase setup
 
-### Deployment
+Create `src/firebase.js`:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```js
+import { initializeApp } from "firebase/app";
+import { getFirestore } from "firebase/firestore";
 
-### `npm run build` fails to minify
+const firebaseConfig = {
+  apiKey: "...",
+  authDomain: "...",
+  projectId: "...",
+  // ...
+};
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+const app = initializeApp(firebaseConfig);
+export const db = getFirestore(app);
+```
+
+### Run locally
+
+```bash
+npm start
+```
+
+### Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## Nationality Codes
+
+The app maps 3-letter FIFA codes to 2-letter ISO codes for flag images. The full mapping lives at the top of `App.jsx` in the `NAT_TO_FLAG` object. If a player's nationality isn't displaying a flag, add their mapping there:
+
+```js
+const NAT_TO_FLAG = {
+  ENG: 'gb-eng',
+  ESP: 'es',
+  BRA: 'br',
+  // add more here
+};
+```
+
+---
+
+## Features
+
+- 🔍 Live player search with dropdown
+- 🟩 Colour-coded tile reveal with staggered left-to-right animation
+- ⬆⬇ Age direction arrows
+- 🏆 Win / loss result screen with answer reveal
+- 🔄 Play again without page reload
+- 📜 Rules section with smooth scroll
+- 📱 Fully responsive down to mobile
+- ⚽ Pitch grid background with stadium aesthetic
+
+---
+
+## Author
+
+Made with ♥ by **Yuvi**
+
+- GitHub: [github.com/YuvrajHajari](https://github.com/YuvrajHajari/)
+- LinkedIn: [yuvraj-singh-hajari](https://linkedin.com/in/yuvraj-singh-hajari-b40373277/)
