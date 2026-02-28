@@ -1,0 +1,2012 @@
+[
+    {
+        "name": "Francesco Acerbi",
+        "search": "francesco acerbi",
+        "natCode": "it",
+        "pos": "DF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 38,
+        "isStar": true
+    },
+    {
+        "name": "Vasilije Ad\u017ei\u0107",
+        "search": "vasilije adzic",
+        "natCode": "me",
+        "pos": "MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 19,
+        "isStar": true
+    },
+    {
+        "name": "Rayan A\u00eft-Nouri",
+        "search": "rayan ait-nouri",
+        "natCode": "dz",
+        "pos": "DF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Manuel Akanji",
+        "search": "manuel akanji",
+        "natCode": "ch",
+        "pos": "DF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 30,
+        "isStar": true
+    },
+    {
+        "name": "Nathan Ak\u00e9",
+        "search": "nathan ake",
+        "natCode": "nl",
+        "pos": "DF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 30,
+        "isStar": true
+    },
+    {
+        "name": "David Alaba",
+        "search": "david alaba",
+        "natCode": "at",
+        "pos": "DF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 33,
+        "isStar": true
+    },
+    {
+        "name": "Trent Alexander-Arnold",
+        "search": "trent alexander-arnold",
+        "natCode": "eng",
+        "pos": "DF,MF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Alisson",
+        "search": "alisson",
+        "natCode": "br",
+        "pos": "GK",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 33,
+        "isStar": true
+    },
+    {
+        "name": "Antony",
+        "search": "antony",
+        "natCode": "br",
+        "pos": "MF,FW",
+        "club": "Real Betis",
+        "league": "es La Liga",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Ronald Ara\u00fajo",
+        "search": "ronald araujo",
+        "natCode": "uy",
+        "pos": "DF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Ra\u00fal Asencio",
+        "search": "raul asencio",
+        "natCode": "es",
+        "pos": "DF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Carlos Augusto",
+        "search": "carlos augusto",
+        "natCode": "br",
+        "pos": "MF,DF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Yann Aurel Bisseck",
+        "search": "yann aurel bisseck",
+        "natCode": "de",
+        "pos": "DF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Alejandro Balde",
+        "search": "alejandro balde",
+        "natCode": "es",
+        "pos": "DF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Roony Bardghji",
+        "search": "roony bardghji",
+        "natCode": "se",
+        "pos": "MF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 20,
+        "isStar": true
+    },
+    {
+        "name": "Nicol\u00f2 Barella",
+        "search": "nicolo barella",
+        "natCode": "it",
+        "pos": "MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Thierno Barry",
+        "search": "thierno barry",
+        "natCode": "fr",
+        "pos": "FW",
+        "club": "Everton",
+        "league": "eng Premier League",
+        "age": 23,
+        "isStar": true
+    },
+    {
+        "name": "Alessandro Bastoni",
+        "search": "alessandro bastoni",
+        "natCode": "it",
+        "pos": "DF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Jude Bellingham",
+        "search": "jude bellingham",
+        "natCode": "eng",
+        "pos": "MF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Marc Bernal",
+        "search": "marc bernal",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 18,
+        "isStar": true
+    },
+    {
+        "name": "Beto",
+        "search": "beto",
+        "natCode": "gw",
+        "pos": "FW",
+        "club": "Everton",
+        "league": "eng Premier League",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Tom Bischof",
+        "search": "tom bischof",
+        "natCode": "de",
+        "pos": "DF,MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 20,
+        "isStar": true
+    },
+    {
+        "name": "Oscar Bobb",
+        "search": "oscar bobb",
+        "natCode": "no",
+        "pos": "MF,FW",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Sacha Boey",
+        "search": "sacha boey",
+        "natCode": "fr",
+        "pos": "DF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Ange-Yoan Bonny",
+        "search": "ange-yoan bonny",
+        "natCode": "fr",
+        "pos": "FW",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Jarrod Bowen",
+        "search": "jarrod bowen",
+        "natCode": "eng",
+        "pos": "MF,FW",
+        "club": "West Ham United",
+        "league": "eng Premier League",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Conor Bradley",
+        "search": "conor bradley",
+        "natCode": "nir",
+        "pos": "DF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Gleison Bremer",
+        "search": "gleison bremer",
+        "natCode": "br",
+        "pos": "DF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Riccardo Calafiori",
+        "search": "riccardo calafiori",
+        "natCode": "it",
+        "pos": "DF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 23,
+        "isStar": true
+    },
+    {
+        "name": "Hakan \u00c7alhano\u011flu",
+        "search": "hakan calhanoglu",
+        "natCode": "tr",
+        "pos": "MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 32,
+        "isStar": true
+    },
+    {
+        "name": "Eduardo Camavinga",
+        "search": "eduardo camavinga",
+        "natCode": "fr",
+        "pos": "MF,DF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 23,
+        "isStar": true
+    },
+    {
+        "name": "Andrea Cambiaso",
+        "search": "andrea cambiaso",
+        "natCode": "it",
+        "pos": "MF,DF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Jo\u00e3o Cancelo",
+        "search": "joao cancelo",
+        "natCode": "pt",
+        "pos": "DF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "\u00c1lvaro Carreras",
+        "search": "alvaro carreras",
+        "natCode": "es",
+        "pos": "DF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Dani Carvajal",
+        "search": "dani carvajal",
+        "natCode": "es",
+        "pos": "DF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 34,
+        "isStar": true
+    },
+    {
+        "name": "Marc Casado",
+        "search": "marc casado",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Dani Ceballos",
+        "search": "dani ceballos",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Rayan Cherki",
+        "search": "rayan cherki",
+        "natCode": "fr",
+        "pos": "MF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Federico Chiesa",
+        "search": "federico chiesa",
+        "natCode": "it",
+        "pos": "MF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Andreas Christensen",
+        "search": "andreas christensen",
+        "natCode": "dk",
+        "pos": "DF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Francisco Concei\u00e7\u00e3o",
+        "search": "francisco conceicao",
+        "natCode": "pt",
+        "pos": "MF,FW",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 23,
+        "isStar": true
+    },
+    {
+        "name": "Thibaut Courtois",
+        "search": "thibaut courtois",
+        "natCode": "be",
+        "pos": "GK",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 33,
+        "isStar": true
+    },
+    {
+        "name": "Pau Cubars\u00ed",
+        "search": "pau cubarsi",
+        "natCode": "es",
+        "pos": "DF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 19,
+        "isStar": true
+    },
+    {
+        "name": "Matteo Darmian",
+        "search": "matteo darmian",
+        "natCode": "it",
+        "pos": "DF,MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 36,
+        "isStar": true
+    },
+    {
+        "name": "Juan David Cabal",
+        "search": "juan david cabal",
+        "natCode": "co",
+        "pos": "MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Jonathan David",
+        "search": "jonathan david",
+        "natCode": "ca",
+        "pos": "FW",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Alphonso Davies",
+        "search": "alphonso davies",
+        "natCode": "ca",
+        "pos": "DF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Michele Di Gregorio",
+        "search": "michele di gregorio",
+        "natCode": "it",
+        "pos": "GK",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "R\u00faben Dias",
+        "search": "ruben dias",
+        "natCode": "pt",
+        "pos": "DF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Brahim D\u00edaz",
+        "search": "brahim diaz",
+        "natCode": "ma",
+        "pos": "MF,FW",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Luis D\u00edaz",
+        "search": "luis diaz",
+        "natCode": "co",
+        "pos": "MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Federico Dimarco",
+        "search": "federico dimarco",
+        "natCode": "it",
+        "pos": "MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Andy Diouf",
+        "search": "andy diouf",
+        "natCode": "fr",
+        "pos": "MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Jeremy Doku",
+        "search": "jeremy doku",
+        "natCode": "be",
+        "pos": "MF,FW",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 23,
+        "isStar": true
+    },
+    {
+        "name": "Gianluigi Donnarumma",
+        "search": "gianluigi donnarumma",
+        "natCode": "it",
+        "pos": "GK",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "D\u00e9sir\u00e9 Dou\u00e9",
+        "search": "desire doue",
+        "natCode": "fr",
+        "pos": "FW,MF",
+        "club": "Paris Saint-Germain",
+        "league": "fr Ligue 1",
+        "age": 20,
+        "isStar": true
+    },
+    {
+        "name": "Denzel Dumfries",
+        "search": "denzel dumfries",
+        "natCode": "nl",
+        "pos": "MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Paulo Dybala",
+        "search": "paulo dybala",
+        "natCode": "ar",
+        "pos": "FW,MF",
+        "club": "Roma",
+        "league": "it Serie A",
+        "age": 32,
+        "isStar": true
+    },
+    {
+        "name": "Hugo Ekitike",
+        "search": "hugo ekitike",
+        "natCode": "fr",
+        "pos": "FW",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 23,
+        "isStar": true
+    },
+    {
+        "name": "Wataru Endo",
+        "search": "wataru endo",
+        "natCode": "jp",
+        "pos": "DF,MF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 33,
+        "isStar": true
+    },
+    {
+        "name": "Francesco Esposito",
+        "search": "francesco esposito",
+        "natCode": "it",
+        "pos": "FW",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 20,
+        "isStar": true
+    },
+    {
+        "name": "Eberechi Eze",
+        "search": "eberechi eze",
+        "natCode": "eng",
+        "pos": "MF,FW",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Dro Fern\u00e1ndez",
+        "search": "dro fernandez",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 18,
+        "isStar": true
+    },
+    {
+        "name": "Phil Foden",
+        "search": "phil foden",
+        "natCode": "eng",
+        "pos": "MF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Davide Frattesi",
+        "search": "davide frattesi",
+        "natCode": "it",
+        "pos": "MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Jeremie Frimpong",
+        "search": "jeremie frimpong",
+        "natCode": "nl",
+        "pos": "DF,MF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Cody Gakpo",
+        "search": "cody gakpo",
+        "natCode": "nl",
+        "pos": "MF,FW",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Eric Garc\u00eda",
+        "search": "eric garcia",
+        "natCode": "es",
+        "pos": "DF,MF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Fran Garcia",
+        "search": "fran garcia",
+        "natCode": "es",
+        "pos": "DF,MF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Gonzalo Garc\u00eda",
+        "search": "gonzalo garcia",
+        "natCode": "es",
+        "pos": "FW",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 21,
+        "isStar": true
+    },
+    {
+        "name": "Joan Garc\u00eda",
+        "search": "joan garcia",
+        "natCode": "es",
+        "pos": "GK",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "James Garner",
+        "search": "james garner",
+        "natCode": "eng",
+        "pos": "MF,DF",
+        "club": "Everton",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Federico Gatti",
+        "search": "federico gatti",
+        "natCode": "it",
+        "pos": "DF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Serge Gnabry",
+        "search": "serge gnabry",
+        "natCode": "de",
+        "pos": "MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 30,
+        "isStar": true
+    },
+    {
+        "name": "Joe Gomez",
+        "search": "joe gomez",
+        "natCode": "eng",
+        "pos": "DF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Nicol\u00e1s Gonz\u00e1lez",
+        "search": "nicolas gonzalez",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Leon Goretzka",
+        "search": "leon goretzka",
+        "natCode": "de",
+        "pos": "MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "Ryan Gravenberch",
+        "search": "ryan gravenberch",
+        "natCode": "nl",
+        "pos": "MF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 23,
+        "isStar": true
+    },
+    {
+        "name": "\u00c1lex Grimaldo",
+        "search": "alex grimaldo",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Leverkusen",
+        "league": "de Bundesliga",
+        "age": 30,
+        "isStar": true
+    },
+    {
+        "name": "Marc Gu\u00e9hi",
+        "search": "marc guehi",
+        "natCode": "eng",
+        "pos": "DF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Rapha\u00ebl Guerreiro",
+        "search": "raphael guerreiro",
+        "natCode": "pt",
+        "pos": "MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 32,
+        "isStar": true
+    },
+    {
+        "name": "Arda G\u00fcler",
+        "search": "arda guler",
+        "natCode": "tr",
+        "pos": "MF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 20,
+        "isStar": true
+    },
+    {
+        "name": "Jo\u0161ko Gvardiol",
+        "search": "josko gvardiol",
+        "natCode": "hr",
+        "pos": "DF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Viktor Gy\u00f6keres",
+        "search": "viktor gyokeres",
+        "natCode": "se",
+        "pos": "FW",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Erling Haaland",
+        "search": "erling haaland",
+        "natCode": "no",
+        "pos": "FW",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Kai Havertz",
+        "search": "kai havertz",
+        "natCode": "de",
+        "pos": "MF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Luis Henrique",
+        "search": "luis henrique",
+        "natCode": "br",
+        "pos": "MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Piero Hincapi\u00e9",
+        "search": "piero hincapie",
+        "natCode": "ec",
+        "pos": "DF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Dean Huijsen",
+        "search": "dean huijsen",
+        "natCode": "es",
+        "pos": "DF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 20,
+        "isStar": true
+    },
+    {
+        "name": "Alexander Isak",
+        "search": "alexander isak",
+        "natCode": "se",
+        "pos": "FW",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Hiroki Ito",
+        "search": "hiroki ito",
+        "natCode": "jp",
+        "pos": "DF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Nicolas Jackson",
+        "search": "nicolas jackson",
+        "natCode": "sn",
+        "pos": "FW",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Gabriel Jesus",
+        "search": "gabriel jesus",
+        "natCode": "br",
+        "pos": "FW",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Jo\u00e3o Pedro",
+        "search": "joao pedro",
+        "natCode": "br",
+        "pos": "FW,MF",
+        "club": "Chelsea",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Curtis Jones",
+        "search": "curtis jones",
+        "natCode": "eng",
+        "pos": "MF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Frenkie de Jong",
+        "search": "frenkie de jong",
+        "natCode": "nl",
+        "pos": "MF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Vinicius J\u00fanior",
+        "search": "vinicius junior",
+        "natCode": "br",
+        "pos": "FW,MF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Pierre Kalulu",
+        "search": "pierre kalulu",
+        "natCode": "fr",
+        "pos": "DF,MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Harry Kane",
+        "search": "harry kane",
+        "natCode": "eng",
+        "pos": "FW,MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 32,
+        "isStar": true
+    },
+    {
+        "name": "Lennart Karl",
+        "search": "lennart karl",
+        "natCode": "de",
+        "pos": "MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 17,
+        "isStar": true
+    },
+    {
+        "name": "Lloyd Kelly",
+        "search": "lloyd kelly",
+        "natCode": "eng",
+        "pos": "DF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Milos Kerkez",
+        "search": "milos kerkez",
+        "natCode": "hu",
+        "pos": "DF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Abdukodir Khusanov",
+        "search": "abdukodir khusanov",
+        "natCode": "uz",
+        "pos": "DF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 21,
+        "isStar": true
+    },
+    {
+        "name": "Joshua Kimmich",
+        "search": "joshua kimmich",
+        "natCode": "de",
+        "pos": "MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "Ibrahima Konat\u00e9",
+        "search": "ibrahima konate",
+        "natCode": "fr",
+        "pos": "DF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Teun Koopmeiners",
+        "search": "teun koopmeiners",
+        "natCode": "nl",
+        "pos": "DF,MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Filip Kosti\u0107",
+        "search": "filip kostic",
+        "natCode": "rs",
+        "pos": "MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 33,
+        "isStar": true
+    },
+    {
+        "name": "Jules Kound\u00e9",
+        "search": "jules kounde",
+        "natCode": "fr",
+        "pos": "DF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Konrad Laimer",
+        "search": "konrad laimer",
+        "natCode": "at",
+        "pos": "DF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Robert Lewandowski",
+        "search": "robert lewandowski",
+        "natCode": "pl",
+        "pos": "FW",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 37,
+        "isStar": true
+    },
+    {
+        "name": "Rico Lewis",
+        "search": "rico lewis",
+        "natCode": "eng",
+        "pos": "DF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 21,
+        "isStar": true
+    },
+    {
+        "name": "Myles Lewis-Skelly",
+        "search": "myles lewis-skelly",
+        "natCode": "eng",
+        "pos": "DF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 19,
+        "isStar": true
+    },
+    {
+        "name": "Manuel Locatelli",
+        "search": "manuel locatelli",
+        "natCode": "it",
+        "pos": "MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Fermin L\u00f3pez",
+        "search": "fermin lopez",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Alexis Mac Allister",
+        "search": "alexis mac allister",
+        "natCode": "ar",
+        "pos": "MF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Noni Madueke",
+        "search": "noni madueke",
+        "natCode": "eng",
+        "pos": "FW,MF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 23,
+        "isStar": true
+    },
+    {
+        "name": "Gabriel Magalh\u00e3es",
+        "search": "gabriel magalhaes",
+        "natCode": "br",
+        "pos": "DF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Giorgi Mamardashvili",
+        "search": "giorgi mamardashvili",
+        "natCode": "ge",
+        "pos": "GK",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Jo\u00e3o M\u00e1rio Lopes",
+        "search": "joao mario lopes",
+        "natCode": "pt",
+        "pos": "MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Omar Marmoush",
+        "search": "omar marmoush",
+        "natCode": "eg",
+        "pos": "FW,MF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Gerard Mart\u00edn",
+        "search": "gerard martin",
+        "natCode": "es",
+        "pos": "DF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Gabriel Martinelli",
+        "search": "gabriel martinelli",
+        "natCode": "br",
+        "pos": "FW",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Lautaro Mart\u00ednez",
+        "search": "lautaro martinez",
+        "natCode": "ar",
+        "pos": "FW",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Franco Mastantuono",
+        "search": "franco mastantuono",
+        "natCode": "ar",
+        "pos": "MF,FW",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 18,
+        "isStar": true
+    },
+    {
+        "name": "Kylian Mbapp\u00e9",
+        "search": "kylian mbappe",
+        "natCode": "fr",
+        "pos": "FW",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Weston McKennie",
+        "search": "weston mckennie",
+        "natCode": "us",
+        "pos": "MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Mikel Merino",
+        "search": "mikel merino",
+        "natCode": "es",
+        "pos": "MF,FW",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Wisdom Mike",
+        "search": "wisdom mike",
+        "natCode": "de",
+        "pos": "FW",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 17,
+        "isStar": true
+    },
+    {
+        "name": "\u00c9der Milit\u00e3o",
+        "search": "eder militao",
+        "natCode": "br",
+        "pos": "DF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Kim Min-jae",
+        "search": "kim min-jae",
+        "natCode": "kr",
+        "pos": "DF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Fabio Miretti",
+        "search": "fabio miretti",
+        "natCode": "it",
+        "pos": "MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Henrikh Mkhitaryan",
+        "search": "henrikh mkhitaryan",
+        "natCode": "am",
+        "pos": "MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 37,
+        "isStar": true
+    },
+    {
+        "name": "Cristhian Mosquera",
+        "search": "cristhian mosquera",
+        "natCode": "es",
+        "pos": "DF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 21,
+        "isStar": true
+    },
+    {
+        "name": "Jamal Musiala",
+        "search": "jamal musiala",
+        "natCode": "de",
+        "pos": "MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Pedro Neto",
+        "search": "pedro neto",
+        "natCode": "pt",
+        "pos": "MF",
+        "club": "Chelsea",
+        "league": "eng Premier League",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Manuel Neuer",
+        "search": "manuel neuer",
+        "natCode": "de",
+        "pos": "GK",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 39,
+        "isStar": true
+    },
+    {
+        "name": "Rio Ngumoha",
+        "search": "rio ngumoha",
+        "natCode": "eng",
+        "pos": "FW",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 17,
+        "isStar": true
+    },
+    {
+        "name": "Matheus Nunes",
+        "search": "matheus nunes",
+        "natCode": "pt",
+        "pos": "DF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Ethan Nwaneri",
+        "search": "ethan nwaneri",
+        "natCode": "eng",
+        "pos": "MF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 18,
+        "isStar": true
+    },
+    {
+        "name": "Christian N\u00f8rgaard",
+        "search": "christian n\u00f8rgaard",
+        "natCode": "dk",
+        "pos": "MF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "Jake O'Brien",
+        "search": "jake o'brien",
+        "natCode": "ie",
+        "pos": "DF",
+        "club": "Everton",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Michael Olise",
+        "search": "michael olise",
+        "natCode": "fr",
+        "pos": "MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Dani Olmo",
+        "search": "dani olmo",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Lo\u00efs Openda",
+        "search": "lois openda",
+        "natCode": "be",
+        "pos": "FW,MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Nico O\u2019Reilly",
+        "search": "nico o\u2019reilly",
+        "natCode": "eng",
+        "pos": "DF,MF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 20,
+        "isStar": true
+    },
+    {
+        "name": "Aleksandar Pavlovic",
+        "search": "aleksandar pavlovic",
+        "natCode": "de",
+        "pos": "MF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 21,
+        "isStar": true
+    },
+    {
+        "name": "Pedri",
+        "search": "pedri",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 23,
+        "isStar": true
+    },
+    {
+        "name": "Mattia Perin",
+        "search": "mattia perin",
+        "natCode": "it",
+        "pos": "GK",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 33,
+        "isStar": true
+    },
+    {
+        "name": "\u0110or\u0111e Petrovi\u0107",
+        "search": "\u0111or\u0111e petrovic",
+        "natCode": "rs",
+        "pos": "GK",
+        "club": "Bournemouth",
+        "league": "eng Premier League",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Jordan Pickford",
+        "search": "jordan pickford",
+        "natCode": "eng",
+        "pos": "GK",
+        "club": "Everton",
+        "league": "eng Premier League",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "Raphinha",
+        "search": "raphinha",
+        "natCode": "br",
+        "pos": "MF,FW",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Marcus Rashford",
+        "search": "marcus rashford",
+        "natCode": "eng",
+        "pos": "MF,FW",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "David Raya",
+        "search": "david raya",
+        "natCode": "es",
+        "pos": "GK",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 30,
+        "isStar": true
+    },
+    {
+        "name": "Tijjani Reijnders",
+        "search": "tijjani reijnders",
+        "natCode": "nl",
+        "pos": "MF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Declan Rice",
+        "search": "declan rice",
+        "natCode": "eng",
+        "pos": "MF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Andrew Robertson",
+        "search": "andrew robertson",
+        "natCode": "sct",
+        "pos": "DF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "Rodri",
+        "search": "rodri",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Rodrygo",
+        "search": "rodrygo",
+        "natCode": "br",
+        "pos": "MF,FW",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Antonio R\u00fcdiger",
+        "search": "antonio rudiger",
+        "natCode": "de",
+        "pos": "DF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 32,
+        "isStar": true
+    },
+    {
+        "name": "Daniele Rugani",
+        "search": "daniele rugani",
+        "natCode": "it",
+        "pos": "DF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "Bukayo Saka",
+        "search": "bukayo saka",
+        "natCode": "eng",
+        "pos": "FW,MF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Mohamed Salah",
+        "search": "mohamed salah",
+        "natCode": "eg",
+        "pos": "MF,FW",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 33,
+        "isStar": true
+    },
+    {
+        "name": "William Saliba",
+        "search": "william saliba",
+        "natCode": "fr",
+        "pos": "DF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "S\u00e1vio",
+        "search": "savio",
+        "natCode": "br",
+        "pos": "MF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 21,
+        "isStar": true
+    },
+    {
+        "name": "Alex Scott",
+        "search": "alex scott",
+        "natCode": "eng",
+        "pos": "MF",
+        "club": "Bournemouth",
+        "league": "eng Premier League",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Antoine Semenyo",
+        "search": "antoine semenyo",
+        "natCode": "gh",
+        "pos": "MF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Luke Shaw",
+        "search": "luke shaw",
+        "natCode": "eng",
+        "pos": "DF",
+        "club": "Manchester Utd",
+        "league": "eng Premier League",
+        "age": 30,
+        "isStar": true
+    },
+    {
+        "name": "Bernardo Silva",
+        "search": "bernardo silva",
+        "natCode": "pt",
+        "pos": "MF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "Yann Sommer",
+        "search": "yann sommer",
+        "natCode": "ch",
+        "pos": "GK",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 37,
+        "isStar": true
+    },
+    {
+        "name": "Josip Stani\u0161i\u0107",
+        "search": "josip stanisic",
+        "natCode": "hr",
+        "pos": "DF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "John Stones",
+        "search": "john stones",
+        "natCode": "eng",
+        "pos": "DF",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "Petar Sucic",
+        "search": "petar sucic",
+        "natCode": "hr",
+        "pos": "MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Wojciech Szcz\u0119sny",
+        "search": "wojciech szczesny",
+        "natCode": "pl",
+        "pos": "GK",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 35,
+        "isStar": true
+    },
+    {
+        "name": "Dominik Szoboszlai",
+        "search": "dominik szoboszlai",
+        "natCode": "hu",
+        "pos": "MF,DF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Jonathan Tah",
+        "search": "jonathan tah",
+        "natCode": "de",
+        "pos": "DF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 30,
+        "isStar": true
+    },
+    {
+        "name": "James Tarkowski",
+        "search": "james tarkowski",
+        "natCode": "eng",
+        "pos": "DF",
+        "club": "Everton",
+        "league": "eng Premier League",
+        "age": 33,
+        "isStar": true
+    },
+    {
+        "name": "Aur\u00e9lien Tchouam\u00e9ni",
+        "search": "aurelien tchouameni",
+        "natCode": "fr",
+        "pos": "MF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Kh\u00e9phren Thuram",
+        "search": "khephren thuram",
+        "natCode": "fr",
+        "pos": "MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Marcus Thuram",
+        "search": "marcus thuram",
+        "natCode": "fr",
+        "pos": "FW",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Jurri\u00ebn Timber",
+        "search": "jurrien timber",
+        "natCode": "nl",
+        "pos": "DF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Sandro Tonali",
+        "search": "sandro tonali",
+        "natCode": "it",
+        "pos": "MF",
+        "club": "Newcastle United",
+        "league": "eng Premier League",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "Jofre Torrents",
+        "search": "jofre torrents",
+        "natCode": "es",
+        "pos": "DF",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 19,
+        "isStar": true
+    },
+    {
+        "name": "Ferr\u00e1n Torres",
+        "search": "ferran torres",
+        "natCode": "es",
+        "pos": "FW",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 25,
+        "isStar": true
+    },
+    {
+        "name": "James Trafford",
+        "search": "james trafford",
+        "natCode": "eng",
+        "pos": "GK",
+        "club": "Manchester City",
+        "league": "eng Premier League",
+        "age": 23,
+        "isStar": true
+    },
+    {
+        "name": "Leandro Trossard",
+        "search": "leandro trossard",
+        "natCode": "be",
+        "pos": "FW,MF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "Adrien Truffert",
+        "search": "adrien truffert",
+        "natCode": "fr",
+        "pos": "DF",
+        "club": "Bournemouth",
+        "league": "eng Premier League",
+        "age": 24,
+        "isStar": true
+    },
+    {
+        "name": "Dayot Upamecano",
+        "search": "dayot upamecano",
+        "natCode": "fr",
+        "pos": "DF",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Jonas Urbig",
+        "search": "jonas urbig",
+        "natCode": "de",
+        "pos": "GK",
+        "club": "Bayern Munich",
+        "league": "de Bundesliga",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Federico Valverde",
+        "search": "federico valverde",
+        "natCode": "uy",
+        "pos": "DF,MF",
+        "club": "Real Madrid",
+        "league": "es La Liga",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Virgil van Dijk",
+        "search": "virgil van dijk",
+        "natCode": "nl",
+        "pos": "DF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 34,
+        "isStar": true
+    },
+    {
+        "name": "Guglielmo Vicario",
+        "search": "guglielmo vicario",
+        "natCode": "it",
+        "pos": "GK",
+        "club": "Tottenham Hotspur",
+        "league": "eng Premier League",
+        "age": 29,
+        "isStar": true
+    },
+    {
+        "name": "Du\u0161an Vlahovi\u0107",
+        "search": "dusan vlahovic",
+        "natCode": "rs",
+        "pos": "FW",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Stefan de Vrij",
+        "search": "stefan de vrij",
+        "natCode": "nl",
+        "pos": "DF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 34,
+        "isStar": true
+    },
+    {
+        "name": "Ben White",
+        "search": "ben white",
+        "natCode": "eng",
+        "pos": "DF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 28,
+        "isStar": true
+    },
+    {
+        "name": "Florian Wirtz",
+        "search": "florian wirtz",
+        "natCode": "de",
+        "pos": "MF",
+        "club": "Liverpool",
+        "league": "eng Premier League",
+        "age": 22,
+        "isStar": true
+    },
+    {
+        "name": "Lamine Yamal",
+        "search": "lamine yamal",
+        "natCode": "es",
+        "pos": "MF,FW",
+        "club": "Barcelona",
+        "league": "es La Liga",
+        "age": 18,
+        "isStar": true
+    },
+    {
+        "name": "Kenan Y\u0131ld\u0131z",
+        "search": "kenan y\u0131ld\u0131z",
+        "natCode": "tr",
+        "pos": "MF,FW",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 20,
+        "isStar": true
+    },
+    {
+        "name": "Edon Zhegrova",
+        "search": "edon zhegrova",
+        "natCode": "xk",
+        "pos": "MF",
+        "club": "Juventus",
+        "league": "it Serie A",
+        "age": 26,
+        "isStar": true
+    },
+    {
+        "name": "Piotr Zieli\u0144ski",
+        "search": "piotr zielinski",
+        "natCode": "pl",
+        "pos": "MF",
+        "club": "Inter",
+        "league": "it Serie A",
+        "age": 31,
+        "isStar": true
+    },
+    {
+        "name": "Mart\u00edn Zubimendi",
+        "search": "martin zubimendi",
+        "natCode": "es",
+        "pos": "MF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 27,
+        "isStar": true
+    },
+    {
+        "name": "Martin \u00d8degaard",
+        "search": "martin \u00f8degaard",
+        "natCode": "no",
+        "pos": "MF",
+        "club": "Arsenal",
+        "league": "eng Premier League",
+        "age": 27,
+        "isStar": true
+    }
+]
